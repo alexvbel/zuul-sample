@@ -10,6 +10,7 @@
 
     <modules>
         <module>zuul-sample-app</module>
+        <module>zuul-sample-eureka</module>
         <module>zuul-sample-catalog</module>
         <module>zuul-sample-proxy</module>
     </modules>
